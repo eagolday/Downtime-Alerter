@@ -1,0 +1,11 @@
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Domain\bin\Debug\netcoreapp2.2\DowntimeAlerter.Domain.deps.json
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Domain\bin\Debug\netcoreapp2.2\DowntimeAlerter.Domain.dll
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Domain\bin\Debug\netcoreapp2.2\DowntimeAlerter.Domain.pdb
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Domain\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Domain\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Domain\obj\Debug\netcoreapp2.2\DowntimeAlerter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Domain\obj\Debug\netcoreapp2.2\DowntimeAlerter.Domain.AssemblyInfoInputs.cache
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Domain\obj\Debug\netcoreapp2.2\DowntimeAlerter.Domain.AssemblyInfo.cs
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Domain\obj\Debug\netcoreapp2.2\DowntimeAlerter.Domain.csproj.CopyComplete
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Domain\obj\Debug\netcoreapp2.2\DowntimeAlerter.Domain.dll
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Domain\obj\Debug\netcoreapp2.2\DowntimeAlerter.Domain.pdb

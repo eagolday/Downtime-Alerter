@@ -1,0 +1,14 @@
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\obj\Debug\netcoreapp2.2\DowntimeAlerter.Data.Context.csprojAssemblyReference.cache
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\obj\Debug\netcoreapp2.2\DowntimeAlerter.Data.Context.csproj.CoreCompileInputs.cache
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\obj\Debug\netcoreapp2.2\DowntimeAlerter.Data.Context.AssemblyInfoInputs.cache
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\obj\Debug\netcoreapp2.2\DowntimeAlerter.Data.Context.AssemblyInfo.cs
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\bin\Debug\netcoreapp2.2\DowntimeAlerter.Data.Context.deps.json
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\bin\Debug\netcoreapp2.2\DowntimeAlerter.Data.Context.dll
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\obj\Debug\netcoreapp2.2\DowntimeAlerter.Data.Context.csproj.CopyComplete
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\bin\Debug\netcoreapp2.2\DowntimeAlerter.Data.Context.pdb
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\obj\Debug\netcoreapp2.2\DowntimeAlerter.Data.Context.dll
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\obj\Debug\netcoreapp2.2\DowntimeAlerter.Data.Context.pdb
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\bin\Debug\netcoreapp2.2\DowntimeAlerter.Domain.dll
+C:\Users\agolday\Desktop\DowntimeAlerter\DowntimeAlerter.Data.Context\bin\Debug\netcoreapp2.2\DowntimeAlerter.Domain.pdb
